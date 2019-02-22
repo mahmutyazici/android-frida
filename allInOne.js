@@ -1,5 +1,4 @@
 Java.perform(function () {
-	
 		
 	var MainActivity = Java.use("uk.rossmarks.fridalab.MainActivity");
 
